@@ -15,9 +15,8 @@
 4. [Project Directory Structure](#-project-directory-structure)
 5. [Installation & Setup](#-installation--setup)
 6. [How to Use](#-how-to-use)
-7. [Testing & Validation](#-testing--validation)
-8. [Future Roadmap](#-future-roadmap)
-9. [Contact & Credits](#-contact--credits)
+7. [Future Roadmap](#-future-roadmap)
+
 
 ---
 
