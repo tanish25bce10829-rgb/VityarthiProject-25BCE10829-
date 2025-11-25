@@ -115,5 +115,9 @@ Handover Time (fixed 15 mins).
 Total Estimated Time.
 
 
-🧪 Testing & ValidationThis project has been tested against the following scenarios (Black Box Testing):ScenarioInput DataExpected BehaviorStatusNormal UseDist: 50, Vehicle: CarCalculates ~65 mins total✅ PassEdge CaseDist: 0.5, Vehicle: BikeCalculates precise decimal time✅ PassInvalid InputDist: Five, Vehicle: CarShows "Error" Popup Window✅ PassEmpty InputDist:      , Vehicle: CarShows "Error" Popup Window✅ Pass
+🔮 Future Roadmap
+[ ] v2.0: Integration with Google Maps API for real-time traffic data.
 
+[ ] v2.0: "Cost Calculator" feature based on fuel prices.
+
+[ ] v3.0: Export results to PDF or Excel receipt.
