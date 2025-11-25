@@ -115,5 +115,5 @@ Handover Time (fixed 15 mins).
 Total Estimated Time.
 
 
-
+🧪 Testing & ValidationThis project has been tested against the following scenarios (Black Box Testing):ScenarioInput DataExpected BehaviorStatusNormal UseDist: 50, Vehicle: CarCalculates ~65 mins total✅ PassEdge CaseDist: 0.5, Vehicle: BikeCalculates precise decimal time✅ PassInvalid InputDist: Five, Vehicle: CarShows "Error" Popup Window✅ PassEmpty InputDist:      , Vehicle: CarShows "Error" Popup Window✅ Pass
 
