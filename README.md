@@ -90,13 +90,11 @@ Open the integrated Terminal (Ctrl + ~).
 
 Run the application using the following command:
 
-Bash
-
 python delivery_gui.py
 
 
 
-🎮 How to Use
+## 🎮 How to Use
 Launch: Run the script. A window titled "Speed Logistics" will appear.
 
 Input Distance: Click the text box labeled "Destination Distance" and type the number of kilometers (e.g., 15.5).
@@ -114,7 +112,7 @@ Handover Time (fixed 15 mins).
 Total Estimated Time.
 
 
-🔮 Future Roadmap
+## 🔮 Future Roadmap
 [ ] v2.0: Integration with Google Maps API for real-time traffic data.
 
 [ ] v2.0: "Cost Calculator" feature based on fuel prices.
