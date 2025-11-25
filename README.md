@@ -65,7 +65,7 @@ This project is built using the **Event-Driven Programming** paradigm.
 
 When submitting your project, ensure your folder looks like this:
 
-```text
+
 Speed-Logistics/
 │
 ├── delivery_gui.py        # The main Python source code
@@ -94,3 +94,26 @@ Run the application using the following command:
 Bash
 
 python delivery_gui.py
+
+
+
+🎮 How to Use
+Launch: Run the script. A window titled "Speed Logistics" will appear.
+
+Input Distance: Click the text box labeled "Destination Distance" and type the number of kilometers (e.g., 15.5).
+
+Select Vehicle: Use the dropdown menu to choose your transport method (Bike, Car, or Drone).
+
+Calculate: Click the red "CALCULATE ESTIMATE" button.
+
+View Results: The green text area will show:
+
+Travel Time (based on speed).
+
+Handover Time (fixed 15 mins).
+
+Total Estimated Time.
+
+
+
+
