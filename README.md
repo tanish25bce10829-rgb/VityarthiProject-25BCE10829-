@@ -75,3 +75,22 @@ Speed-Logistics/
 * **Distance:** `abc` (Type letters instead of numbers)
 * **Vehicle:** Any
 * **Expected Result:** A popup error message saying "Please enter a valid number."
+
+
+Prerequisites
+You must have Python installed. (Check by typing python --version in your terminal).
+
+No external libraries (pip install) are required as tkinter is built-in.
+
+Step-by-Step Guide
+Clone or Download this repository to your local machine.
+
+Open the folder in VS Code.
+
+Open the integrated Terminal (Ctrl + ~).
+
+Run the application using the following command:
+
+Bash
+
+python delivery_gui.py
